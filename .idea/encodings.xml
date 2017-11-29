@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/mongodb/common/Util.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mongodb/controller/CompanyController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mongodb/controller/SysController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mongodb/dao/AbstractRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mongodb/dao/RepositoryImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mongodb/entity/Company.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mongodb/service/CompanyImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/mongodb/service/ICompany.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/springmvc/controller/UserController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/springmvc/dao/UserDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/springmvc/dao/UserDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/springmvc/service/UserManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/springmvc/service/UserManagerImpl.java" charset="UTF-8" />
+  </component>
+</project>
